@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>#About</key>
-	<string>B站UP：乌龙蜜桃来一打</string>
+	<string>https://github.com/sontjer</string>
 	<key>#Website</key>
 	<string>https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore</string>
 	<key>ACPI</key>
